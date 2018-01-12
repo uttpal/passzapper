@@ -3,6 +3,7 @@
 Backend to share passwords easily.
 
 Passwords encrypted with creater name + secret hash and stored in SQLite db.
+Please change the hash and salt in config>secrets while using it on own.
 
 ## Requirements
 * Ruby 2.5
