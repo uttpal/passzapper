@@ -1,4 +1,4 @@
-# README
+# PassZapper
 
 Backend to share passwords easily.
 
@@ -17,4 +17,4 @@ Passwords encrypted with creater name + secret hash and stored in SQLite db.
 5. Check postman collection for routes
 
 ## TODO
-[ ] Create a Frontend
+[] Create a Frontend
