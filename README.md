@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Backend to share passwords easily.
 
-Things you may want to cover:
+Passwords encrypted with creater name + secret hash and stored in SQLite db.
 
-* Ruby version
+## Requirements
+* Ruby 2.5
+* Rails 5
+* bundler
+## Getting Started
 
-* System dependencies
+1. Clone this repo
+2. bundle install
+3. rake db:migrate
+4. rails s
+5. Check postman collection for routes
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## TODO
+[ ] Create a Frontend
